@@ -8,11 +8,6 @@ Project is created with:
 * CSS/SCSS
 * JavaScript
 
-## Technologies
-Project is created with:
-* HTML
-* CSS/SCSS
-* JavaScript
 
 
 
